@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  I am Rich2
 //
-//  Created by Prashant Bhat on 05/01/24.
+//  Created by Prashant Bhat on 06/01/24.
 //
 
 import UIKit
